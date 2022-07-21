@@ -23,7 +23,7 @@ will benefit from the need to save precious human lives.
 2) Launch Jupyter notebook from anaconda Navigator.
 3) Open the folder in Jupiter notebook.
 4) Create Account in Twilio.
-5) Get virtual phone number, account sid and auth token.
+5) Get virtual phone number, account sid and auth token for your Twilio account.
 6) Enter those details in "Accident Detection-Video.ipynb" program file.
 7) Also enter the phone number which you have to send the SMS.
 8) Now, Run the code.
