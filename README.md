@@ -21,7 +21,7 @@ will benefit from the need to save precious human lives.
 ## Procedure:
 1) Download the files and extract it in "C:\Users\Admin" path.
 2) Launch Jupyter notebook from anaconda Navigator.
-3) Open the folder in Jupiter notebook.
+3) Open the folder in Jupyter notebook.
 4) Create Account in Twilio.
 5) Get virtual phone number, account sid and auth token for your Twilio account.
 6) Enter those details in "Accident Detection-Video.ipynb" program file.
